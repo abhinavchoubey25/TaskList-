@@ -10,6 +10,7 @@ loadEventListeners();
 
 // Load all event listener function
 function loadEventListeners() {
+	
   // DOMload Event
   document.addEventListener('DOMContentLoaded', getTasks);
 
